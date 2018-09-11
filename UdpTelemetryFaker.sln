@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpTelemetryFaker", "UdpTelemetryFaker\UdpTelemetryFaker.csproj", "{F983E308-12AF-4FE0-A3D0-D73F6878A6F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F1Telemetry", "..\F1TelemetryUi\F1Telemetry\F1Telemetry.csproj", "{88F4FDE6-4126-4267-81DF-17AAD97A1465}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F1Telemetry", "..\F1Telemetry\F1Telemetry\F1Telemetry.csproj", "{88F4FDE6-4126-4267-81DF-17AAD97A1465}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
